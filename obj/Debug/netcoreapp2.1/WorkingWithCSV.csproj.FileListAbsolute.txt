@@ -1,0 +1,11 @@
+C:\Users\Zaicew\source\repos\WorkingWithCSV\WorkingWithCSV\bin\Debug\netcoreapp2.1\WorkingWithCSV.deps.json
+C:\Users\Zaicew\source\repos\WorkingWithCSV\WorkingWithCSV\bin\Debug\netcoreapp2.1\WorkingWithCSV.runtimeconfig.json
+C:\Users\Zaicew\source\repos\WorkingWithCSV\WorkingWithCSV\bin\Debug\netcoreapp2.1\WorkingWithCSV.runtimeconfig.dev.json
+C:\Users\Zaicew\source\repos\WorkingWithCSV\WorkingWithCSV\bin\Debug\netcoreapp2.1\WorkingWithCSV.dll
+C:\Users\Zaicew\source\repos\WorkingWithCSV\WorkingWithCSV\obj\Debug\netcoreapp2.1\WorkingWithCSV.csprojAssemblyReference.cache
+C:\Users\Zaicew\source\repos\WorkingWithCSV\WorkingWithCSV\obj\Debug\netcoreapp2.1\WorkingWithCSV.csproj.CoreCompileInputs.cache
+C:\Users\Zaicew\source\repos\WorkingWithCSV\WorkingWithCSV\obj\Debug\netcoreapp2.1\WorkingWithCSV.AssemblyInfoInputs.cache
+C:\Users\Zaicew\source\repos\WorkingWithCSV\WorkingWithCSV\obj\Debug\netcoreapp2.1\WorkingWithCSV.AssemblyInfo.cs
+C:\Users\Zaicew\source\repos\WorkingWithCSV\WorkingWithCSV\bin\Debug\netcoreapp2.1\WorkingWithCSV.pdb
+C:\Users\Zaicew\source\repos\WorkingWithCSV\WorkingWithCSV\obj\Debug\netcoreapp2.1\WorkingWithCSV.dll
+C:\Users\Zaicew\source\repos\WorkingWithCSV\WorkingWithCSV\obj\Debug\netcoreapp2.1\WorkingWithCSV.pdb
